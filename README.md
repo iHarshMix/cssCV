@@ -1,2 +1,2 @@
 # cssCV
-Modern CV
+Modern CV using CSS
